@@ -1,11 +1,11 @@
-# Detective's Notebook
+o# Detective's Notebook
 
 ## Suspects
 - [ ] The Doctor
-- [ ] The Artist
+- [x] The Artist
 - [ ] The Clockmaker
 
-## Weapons
+## WXeapons
 - [ ] Crystal Vase
 - [ ] Silver Watch
 - [ ] Magnifying Glass
@@ -13,4 +13,5 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+Location is the playground at the park
+
