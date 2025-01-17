@@ -6,7 +6,7 @@ o# Detective's Notebook
 - [ ] The Clockmaker
 
 ## WXeapons
-- [ ] Crystal Vase
+- [x] Crystal Vase
 - [ ] Silver Watch
 - [ ] Magnifying Glass
 
