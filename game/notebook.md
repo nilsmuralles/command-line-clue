@@ -3,7 +3,7 @@ o# Detective's Notebook
 ## Suspects
 - [ ] The Doctor
 - [x] The Artist
-- [ ] The Clockmaker
+- [x] The Clockmaker
 
 ## WXeapons
 - [x] Crystal Vase
