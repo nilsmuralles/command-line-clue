@@ -8,7 +8,7 @@ o# Detective's Notebook
 ## WXeapons
 - [x] Crystal Vase
 - [ ] Silver Watch
-- [ ] Magnifying Glass
+- [x] Magnifying Glass
 
 ## Notes
 *Use this space to record your findings and deductions...*
